@@ -27,7 +27,7 @@ Maven installed
 Postman for testing API endpoints (optional but recommended)
 
 3. Clone the Repository
-git clone https://github.com/your-username/appointment-management-backend.git
+git clone https://github.com/erzabytyci/appointment-management-backend.git
 cd appointment-management-backend
 
 4. Configure PostgreSQL Database
